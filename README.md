@@ -1,2 +1,6 @@
 # Raspberry-pi-reader-for-blind-people
 A Raspberry Pi-based assistive system that reads printed text aloud for visually impaired people using OCR and Text-to-Speech
+What's new in v2.0
+Foundation for Future Accessibility Features — Version 2.0 establishes a stronger architectural foundation for future capabilities, including handwritten text recognition, AI-assisted document understanding, real-time object guidance, and intelligent scene description. These improvements ensure that the project can continue evolving without requiring major architectural redesign.                                                                                                                                                                                                                                                                     
+Enhanced OCR Accuracy — Version 2.0 introduces an improved image preprocessing pipeline that enhances text visibility before Optical Character Recognition (OCR) is performed. By applying optimized image enhancement techniques, the system delivers more reliable text extraction from printed books, newspapers, and educational documents, even under challenging lighting conditions.
+
