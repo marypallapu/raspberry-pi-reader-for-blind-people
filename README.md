@@ -30,7 +30,7 @@ The system requires a configured Raspberry Pi environment with all necessary lib
 ```
 
 Replace ```main.py``` with the actual Python file name used in the project. For example, if the file name is ```reader.py``` or ```blind_reader.py```, use that file name while running the application.
-#Terminal output 
+# Terminal output 
 ```user@raspberrypi:~/raspberry-pi-reader$ python3 main.py
 
 ==> Initializing Raspberry Pi Reader System
