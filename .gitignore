@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Generated Images
+images/*.jpg
+images/*.png
+images/*.txt
+
+# Logs
+*.log
